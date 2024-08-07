@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on starups
 - 📫 How to reach me: mail at hharshit025@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm dropped from college 
 
 <!---
